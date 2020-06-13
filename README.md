@@ -12,7 +12,7 @@
 #### 安装步骤
 1. 在终端输入如下命令：
     ```bash
-    git clone https://github.com/ZYSzys/Mzitu_Spider.git
+    git clone https://github.com/jocker-lab/Mzitu-Scrapy.git
     ```
 2. 在当前目录下输入：
     ```bash
